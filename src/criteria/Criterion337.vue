@@ -13,10 +13,13 @@
         </header>
         <div class="preview-area">
           <div>
-            <div ><div><label for="fail-337">Shipping Address: </label>
-              <input id="fail-337" type="text" value="123 Test St." readonly />
-              <br/><label for="fail-337">Billing Address: </label>
-              <input id="fail-337" type="text" placeholder="Re-enter Adress" /></div></div>
+            <div><div>
+              <label for="fail-337-shipping">Shipping Address:</label>
+              <input id="fail-337-shipping" type="text" value="123 Test St." readonly />
+              <br />
+              <label for="fail-337-billing">Billing Address:</label>
+              <input id="fail-337-billing" type="text" placeholder="Re-enter Address" />
+            </div></div>
           </div>
         </div>
       </div>
@@ -26,9 +29,8 @@
         </header>
         <div class="preview-area">
           <div>
-            <div><div><label for="pass-337">Shipping : </label>
-              <input type="text" value="123 Test St." id="pass-337-txt" readonly /><br/>
-              <label for="pass-337">Billing Address: </label><input type="text" value="123 Test St." id="pass-337" />
+            <div><div><label for="pass-337-txt">Shipping :</label><input type="text" value="123 Test St." id="pass-337-txt" readonly /><br/>
+              <label for="pass-337">Billing Address:</label><input type="text" value="123 Test St." id="pass-337" />
               <button type="button" onclick="document.getElementById('pass-337').value=document.getElementById('pass-337-txt').value">Copy Shipping</button></div></div>
           </div>
         </div>

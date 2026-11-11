@@ -9,25 +9,25 @@
     <div class="split-container">
       <div class="implementation-box">
         <header>
-          <h4>Failing Implementation</h4>
+          <h4 id="fail-241">Failing Implementation</h4>
         </header>
         <div class="preview-area">
           <div>
             <div><nav style="border:1px solid lightgrey; padding:6px;">
-              <a href="#fail-241-a">Home</a> | <a href="#fail-241-b">Products</a> | <a href="#fail-241-c">About</a> | <a href="#fail-241-d">Contact</a></nav>
+              <a href="#fail-241">Home</a> | <a href="#fail-241">Products</a> | <a href="#fail-241">About</a> | <a href="#fail-241">Contact</a></nav>
               <main style="padding:6px;"><p>Main content begins here.</p></main></div>
           </div>
         </div>
       </div>
       <div class="implementation-box">
         <header>
-          <h4>Passing Implementation</h4>
+          <h4 id="pass-241">Passing Implementation</h4>
         </header>
         <div class="preview-area">
           <div>
             <div><a href="#pass-241-main">Skip to main content</a>
               <nav style="border:1px solid lightgray; padding:6px; margin-top:4px;">
-                <a href="#pass-241-a">Home</a> | <a href="#pass-241-b">Products</a> | <a href="#pass-241-c">About</a> | <a href="#pass-241-d">Contact</a></nav>
+                <a href="#pass-241">Home</a> | <a href="#pass-241">Products</a> | <a href="#pass-241">About</a> | <a href="#pass-241">Contact</a></nav>
                 <main id="pass-241-main" tabindex="-1" style="padding:6px;"><p>Main content begins here.</p></main></div>
           </div>
         </div>
