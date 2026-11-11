@@ -7,7 +7,7 @@
     </header>
 
     <div class="split-container">
-      <div class="implementation-box">
+      <div class="implementation-box" data-example="failing">
         <header>
           <h4>Failing Implementation</h4>
         </header>
@@ -21,7 +21,7 @@
           </div>
         </div>
       </div>
-      <div class="implementation-box">
+      <div class="implementation-box" data-example="passing">
         <header>
           <h4>Passing Implementation</h4>
         </header>
