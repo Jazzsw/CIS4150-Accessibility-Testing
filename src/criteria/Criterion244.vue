@@ -13,7 +13,7 @@
         </header>
         <div class="preview-area">
           <div>
-            <div><span>For more information <a href="#https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_overview&levels=a-link">click here</a>.</span></div>
+            <div><span>For more information <a href="https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_overview&levels=a-link">click here</a>.</span></div>
           </div>
         </div>
       </div>

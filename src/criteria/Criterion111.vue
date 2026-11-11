@@ -14,7 +14,7 @@
         <div class="preview-area">
           <div>
             <div >
-              <img src="../samples/sample.png" style="margin-bottom:8px; width:300px; lay:block;" />
+              <img src="../samples/sample.png" style="margin-bottom:8px; width:300px; display:block;" />
             </div>
           </div>
         </div>
