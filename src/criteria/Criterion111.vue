@@ -25,7 +25,7 @@
         </header>
         <div class="preview-area">
           <div>
-            <div ><img src="../samples/sample.png" alt="Blue landscape sample image" style="margin-bottom:8px; width:300px; display:block;" />
+            <div ><img src="../samples/sample.png" alt="Minimalist digital landscape illustration in shades of blue" style="margin-bottom:8px; width:300px; display:block;" />
               </div>
           </div>
         </div>
